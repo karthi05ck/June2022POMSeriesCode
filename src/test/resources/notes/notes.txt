@@ -1,0 +1,9 @@
+Allure
+======
+
+1. install allure using scoop in powershell
+2. go to project directory in powershell or cmd
+3. use command "allure serve allure-results/" and press enter
+4. Report will be opened in localserver url in default browser
+5. Press Ctrl+c to stop the server
+
