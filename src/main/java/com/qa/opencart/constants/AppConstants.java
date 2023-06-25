@@ -6,7 +6,7 @@ import java.util.List;
 public class AppConstants {
 	
 	public static final int DEFAULT_TIME_OUT = 10;
-	public static final String LOGIN_PAGE_TITLE = "Account Login1";
+	public static final String LOGIN_PAGE_TITLE = "Account Login";
 	public static final String ACC_PAGE_TITLE = "My Account1";
 	
 	public static final List<String> EXPECTED_ACC_PAGE_HEADER_LIST = Arrays.asList("My Account1", "My Orders", "My Affiliate Account", "Newsletter");
